@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+output/charts/*
+!output/charts/salary_distribution.png
+!output/charts/salary_by_education.png
+!output/charts/salary_by_jobtitle.png
+!output/charts/salary_by_country.png
